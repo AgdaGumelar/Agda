@@ -1,0 +1,5 @@
+alas=int(input("Masukan Alas: "))
+print(40)
+tinggi=int(input("Masukan Tinggi: "))
+print (20)
+luas=0.5*alas*tinggiprint ("luas=",luas)
